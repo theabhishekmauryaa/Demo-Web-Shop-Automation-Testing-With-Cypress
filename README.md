@@ -1,6 +1,7 @@
 # Demo-Web-Shop-Automation-Testing-With-Cypress
 This repository contains a Cypress-based test automation framework for the Demo Web Shop website. It utilizes the Page Object Model (POM) design pattern to ensure modularity and reusability.
 ### **Demo-Web-Shop-Automation-Testing-With-Cypress**  
+![logo](https://github.com/user-attachments/assets/d2cc570d-8f4d-4516-92ba-03b592933718)
 
 **Overview:**  
 A Cypress-based automation testing framework designed for the Demo Web Shop. This project ensures seamless user experiences by validating key functionalities such as navigation, product management, cart operations, and the checkout process, using the Page Object Model (POM) design pattern.  
