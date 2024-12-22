@@ -82,3 +82,42 @@ This project includes various documentation and reports to ensure comprehensive 
    - A **presentation report** summarizing key findings, bug trends, test execution results, and suggestions for improvement. This report is aimed at stakeholders and developers to help them prioritize work.
 
 ---
+---
+
+## 🐞 **Key Bugs Identified**
+| **Bug ID** | **Feature**             | **Description**                                   | **Severity** | **Status** |
+|------------|-------------------------|-------------------------------------------------|--------------|------------|
+| **BUG-001** | Wishlist Functionality  | Wishlist button missing for certain products.   | High         | Open       |
+| **BUG-002** | Checkout Process        | Promo code field not visible on checkout page.  | Medium       | Open       |
+| **BUG-003** | UI Responsiveness       | Layout issues on mobile devices.                | High         | Open       |
+
+---
+
+## ✨ **Highlights**
+---
+- **Page Object Model (POM)**: Used for organizing the test code in a way that makes it easier to maintain and scale over time.
+- **Comprehensive Test Coverage:** Includes functional, non-functional, UI, and regression testing for all major workflows.
+- **Cross-Device Testing:** Ensures that the application is responsive and functional across desktop, tablet, and mobile.
+- **Bug Identification:** Key bugs were found and categorized, providing insights into areas for improvement.
+- **Detailed Documentation:** The project includes essential documentation like the **Test Plan**, **Test Summary**, and **Bug Report** for transparency and traceability.
+
+---
+
+## 🌐 **Demo Web Shop URL**
+[Demo Web Shop](https://demowebshop.tricentis.com/)
+
+---
+
+## 📝 **Conclusion**
+---
+This project successfully implemented **Cypress-based automation tests** for the **Demo Web Shop**. The tests cover key user functionalities and UI components, ensuring the website remains stable and user-friendly across various platforms. The use of **Page Object Model (POM)** made the test scripts modular, reducing code repetition and improving maintainability.
+
+The identified bugs have been documented and shared with the development team to prioritize fixes. The comprehensive **RTM**, **Test Plan**, and other artifacts ensure that the testing process was thorough and transparent.
+
+---
+
+## 🚀 **Future Enhancements**
+---
+- Expanding test coverage to include additional non-functional tests (e.g., performance and security).
+- Integrating test execution into a Continuous Integration (CI) pipeline for automatic testing with every code change.
+- Adding more complex test cases to cover edge scenarios and multi-step workflows.
